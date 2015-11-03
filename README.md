@@ -17,7 +17,27 @@ Curso sobre desenvolvimento WEB ministrado na XIV SECOMPP (Semana da Computaçã
 ## 3. HTML
   DOM e renderização, protocolo, estrutura, elementos, tags, atributos
 ## 4. CSS
-  Tipos de seletores, propriedades básicas
+### 4.1 O que é CSS
+### 4.2 Porquê usar CSS
+### 4.3 Sintaxe
+### 4.4 Comentários
+### 4.5 Seletores
+### 4.6 Propriedades
+### 4.7 Background
+### 4.8 Text
+### 4.9 Font
+### 4.10 Link
+### 4.11 List
+### 4.12 Table
+### 4.13 Box
+### 4.14 Border
+### 4.15 Padding
+### 4.16 Dimensions
+### 4.17 Display
+### 4.18 Position
+### 4.19 Float
+### 4.20 Pseudoelements
+### 4.21 Images
 ## 5. JS
   Iterações com o DOM
 ## 6. Desenvolvendo uma aplicação "Hello World"
