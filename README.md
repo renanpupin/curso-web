@@ -39,6 +39,6 @@ Curso sobre desenvolvimento WEB ministrado na XIV SECOMPP (Semana da Computaçã
 ### 4.20 Pseudoelements
 ### 4.21 Images
 ## 5. JS
-  Iterações com o DOM
+  Manipulação de DOM, seletores, eventos
 ## 6. Desenvolvendo uma aplicação "Hello World"
 ## 7. Desenvolvendo uma Aplicação com os conceitos ensinados
